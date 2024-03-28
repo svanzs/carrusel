@@ -8,7 +8,7 @@ Las tecnologias que se utilizaron para este proyecto son:
 
 * HTML 5
 * CSS 3
-* BOOtSTRAP 
+* BOOTSTRAP 
 * JS
   
   ![CAPTURA DE PANTALLA DE PAGINA CON EFECTO SLIDE](slide.PNG)
